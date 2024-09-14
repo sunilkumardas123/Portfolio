@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Allura');
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: 350;
+    font-family: "Poppins", sans-serif;
+}
+.navbar{
+    background-color: rgb(0, 0, 33);
+}
+.navbar .portfolio{
+    font-family: "Allura", cursive;
+    font-size: 45px !important;
+}
+section #element{
+    color: #5B5BC9;
+}
